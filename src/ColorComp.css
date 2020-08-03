@@ -1,0 +1,8 @@
+.ColorBox {
+  height: 250px;
+  width: 250px;
+  display: inline-block;
+  margin: 10px;
+  border-radius: 5px;
+  border: 2.5px solid black;
+}
